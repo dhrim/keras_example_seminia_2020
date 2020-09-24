@@ -10,7 +10,7 @@ https://keras.io/examples/ 의 예제를 가지고 Keras와 딥러닝을 설명�
 - WGAN-GP로 fashion mnist 학습 : [wgan_gp.ipynb](wgan_gp.ipynb)
 - LSTM을 사용한 덧셈 문자열 계산 : [addition_rnn.ipynb](addition_rnn.ipynb)
 - 이미 학습된 Embedding을 사용한 문자열 분류 : [pretrained_word_embeddings.ipynb](pretrained_word_embeddings.ipynb)
-
+- 지식 전수로 모델 압축하기 : [knowledge_distillation.ipynb](knowledge_distillation.ipynb)
 
 <br>
 
