@@ -13,6 +13,7 @@ https://keras.io/examples/ 의 예제를 가지고 Keras와 딥러닝을 설명�
 - 지식 전수로 모델 압축하기 : [knowledge_distillation.ipynb](knowledge_distillation.ipynb)
 - Grad-CAM으로 분류에 중요한 영역 보기 : [grad_cam.ipynb](grad_cam.ipynb)
 - 타임 시리즈 날씨 데이터 예측 : [timeseries_weather_forecasting.ipynb](timeseries_weather_forecasting.ipynb)
+- T-Net을 사용하여 3차원 좌표들로 대상 모양 분류 : [pointnet.ipynb](pointnet.ipynb_
 
 <br>
 
