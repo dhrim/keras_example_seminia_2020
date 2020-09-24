@@ -9,6 +9,7 @@ https://keras.io/examples/ 의 예제를 가지고 Keras와 딥러닝을 설명�
 - Cart Pole 문제에 강화학습 적용 : [actor_critic_cartpole.ipynb](actor_critic_cartpole.ipynb)
 - WGAN-GP로 fashion mnist 학습 : [wgan_gp.ipynb](wgan_gp.ipynb)
 - LSTM을 사용한 글자 단위의 단어 번역 : [lstm_seq2seq.ipynb](lstm_seq2seq.ipynb)
+- LSTM을 사용한 덧셈 문자열 계산 : [addition_rnn.ipynb](addition_rnn.ipynb)
 
 
 TODO : colab 링크 달기
