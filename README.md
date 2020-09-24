@@ -14,6 +14,12 @@ https://keras.io/examples/ 의 예제를 가지고 Keras와 딥러닝을 설명�
 
 <br>
 
+**기타**
+- Colab의 작업결과를 tensorboard로 보기 : [tbdev_getting_started.ipynb](tbdev_getting_started.ipynb)
+
+
+<br>
+
 **공부하다가 포기한**
 - LSTM을 사용한 글자 단위의 단어 번역 : [lstm_seq2seq.ipynb](lstm_seq2seq.ipynb)
 
