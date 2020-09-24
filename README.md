@@ -8,6 +8,7 @@ https://keras.io/examples/ 의 예제를 가지고 Keras와 딥러닝을 설명�
 - 비균등 데이터 학습에 class_weight 적용 : [imbalanced_classification.ipynb](imbalanced_classification.ipynb)
 - Cart Pole 문제에 강화학습 적용 : [actor_critic_cartpole.ipynb](actor_critic_cartpole.ipynb)
 - WGAN-GP로 fashion mnist 학습 : [wgan_gp.ipynb](wgan_gp.ipynb)
+- LSTM을 사용한 글자 단위의 단어 번역 : [lstm_seq2seq.ipynb](lstm_seq2seq.ipynb)
 
 
 TODO : colab 링크 달기
