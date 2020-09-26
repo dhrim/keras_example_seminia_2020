@@ -18,7 +18,8 @@ https://keras.io/examples/ 의 예제를 가지고 Keras와 딥러닝을 설명�
 <br>
 
 **기타**
-- Colab의 작업결과를 tensorboard로 보기 : [tbdev_getting_started.ipynb](tbdev_getting_started.ipynb)
+- Colab의 작업결과를 tensorboard로 보기 : [tbdev_getting_started.ipynb](tbdev_getting_started.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_example_seminia_2020/blob/master/tbdev_getting_started.ipynb)
+
 
 
 <br>
